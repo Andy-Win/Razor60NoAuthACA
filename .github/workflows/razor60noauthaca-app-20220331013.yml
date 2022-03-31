@@ -8,7 +8,7 @@ env:
   CONTAINER_APP_NAME: razor60noauthaca-app-20220331013
   CONTAINER_APP_RESOURCE_GROUP_NAME: andy0401LinuxGroup
   CONTAINER_REGISTRY_LOGIN_SERVER: razor60noauthaca20220331014335.azurecr.io
-  DOCKER_FILE_PATH: ./Dockerfile
+  DOCKER_FILE_PATH: Razor60NoAuthACA/Dockerfile
   PROJECT_NAME_FOR_DOCKER: razor60noauthaca
 jobs:
   build:
